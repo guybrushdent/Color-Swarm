@@ -1,5 +1,6 @@
 # Color-Swarm
 A collection of ready-to-use Roccat Swarm profiles (only Vulcan Pro atm)
+I just tested these on Windows, since I can't get Swarm to work in linux (use "eruption-gui" there)
 
 Since there is no collection of things like these anywhere, I decided to make my own.
 
@@ -13,6 +14,8 @@ I'm planning to add colored profiles with macros for some games.
   and just use the different colored areas for the according fingers - good luck ;)
 
 ->Flags are just simple country flags
+
+->gradient - just colors fading over your keyboard
 
 ->Games are empty atm - will add highlight colored profiles for games I like - feel free to add yours
 
